@@ -2,6 +2,24 @@
 
 The traditional snake and apple game is now implemented using the power of AI. Using the **Breadth-First Search (BFS) algorithm** to enable the snake to find the shortest path to the apple.
 
+
+## Table of Contents
+
+- [Technologies Used](#technologies-used)
+- [Gallery](#gallery)
+- [Setup and Execution](#setup-and-execution)
+- [Code Overview](#code-overview)
+- [Functionality](#functionality)
+- [License](#license)
+
+## Technologies Used
+
+- [Python3](https://www.python.org)
+- [Pygame (module)](https://www.pygame.org/)
+- [random (module)](https://docs.python.org/3/library/random.html)
+
+## Gallery
+
 <img src="./Snake-Pathfinding.gif" alt="Snake-pathfinding-gif" width="400" />
 
 ## Setup and Execution
