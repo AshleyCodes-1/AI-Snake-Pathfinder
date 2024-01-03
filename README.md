@@ -2,7 +2,7 @@
 
 The traditional snake and apple game is now implemented using the power of AI. Using the **Breadth-First Search (BFS) algorithm** to enable the snake to find the shortest path to the apple.
 
-<img src="https://github.com/AshleyCodes-1/Fitness360/blob/main/screenshots/Home1.jpg" alt="Home1" width="400" />
+<img src="./Snake-Pathfinding.gif" alt="Snake-pathfinding-gif" width="400" />
 
 ## Setup and Execution
 
